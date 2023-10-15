@@ -1,0 +1,23 @@
+ .u-section-1 {
+  min-height: 1050px;
+}
+
+.u-section-1 .u-video-1 {
+  width: 1110px;
+  left: auto;
+  right: 0;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+  width: 178%;
+  left: -39%;
+  height: 178%;
+  top: -39%;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 1046px;
+  }
+}
